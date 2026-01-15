@@ -1,7 +1,7 @@
 ## Hi, I’m Marcela!
 - 🔭 I’m interested in data science and computational astrophysics
 
-- 📫 How to reach me: email me at mm2746@njit.edu
+- 📫 How to reach me: email me at marcelamoura0104@gmail.com
 
 <!--
 **marcelamouraaa/marcelamouraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
